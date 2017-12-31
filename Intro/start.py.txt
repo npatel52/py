@@ -1,0 +1,8 @@
+# First python code
+
+def main():
+	print ("Hello World!")
+
+# python program executed as a main program
+if __name__ == "__main__":
+	main()
